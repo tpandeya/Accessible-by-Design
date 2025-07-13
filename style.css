@@ -1,0 +1,77 @@
+
+body {background-color: white;
+  margin: 0%;
+  padding: 0, 20%, 20%
+}
+.banner {
+  background-color: #007bff;
+  height: 50px;
+  width: 100%;
+  font-family: 'Segoe UI';
+  text-align: center;
+  color: black; 
+  padding: 2.5% 0 2.5% 0 
+    }
+nav {
+  display: flex;
+  justify-content:center ;
+  gap: 20%;
+  background: #00b3ff;
+  
+}
+nav a {
+color: black;
+font-family:'Segoe UI'; 
+text-decoration: none;
+}
+.quote {
+  background-color: azure;font-family: segoe UI; font-size: 15px;display: inline;
+}
+
+figure {
+  float: right;  
+  text-align: right;
+    margin: 1em 0;
+}
+figure img {
+    width: 200px;
+    height: auto;
+    border-radius: 4px;
+} 
+figcaption {
+    font-family: 'segoe UI';
+    font-size: 10px;
+    color:black;
+    margin-top: 0.5em;
+}
+
+p {font-size: 15px; font-family: 'Segoe UI';
+}
+h1 {font-size: 18px;font-family: 'Segoe UI';
+}
+h2 {font-size: 16px; font-family: 'Segoe UI';
+}
+ul {
+  list-style-type: square; font-size: 15px; font-family: 'Segoe UI';
+}
+.Think {
+  background-color: #d1d4e8;
+  height: auto;
+  width: 100%;
+  display:inline-flexbox;
+   font-family: 'Segoe UI';
+  text-align: left;
+  color: black; 
+  padding: 1.5% 0.5% 0.5%
+}
+icon {
+  float: left;  
+  text-align: left;
+    
+}
+table {
+  font-size: 15px;
+  font-family: segoe ui;
+  }
+
+
